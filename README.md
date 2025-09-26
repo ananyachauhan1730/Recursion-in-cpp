@@ -23,7 +23,7 @@ Example: 5! = 5 × 4 × 3 × 2 × 1 = 120
 
 # Algorithm:
 
-# ⚡program 1:-
+# program 1:-
 
 1️⃣ Factorial of an Integer
 
@@ -41,7 +41,7 @@ Example: 5! = 5 × 4 × 3 × 2 × 1 = 120
     
 8. Stop
 
-# ⚡ program 2:-
+#  program 2:-
 
 2️⃣Sum of Digits of an Integer
 
